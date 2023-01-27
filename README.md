@@ -1,5 +1,5 @@
 # grpc-ts
-Testing typescript and grpc implementation
+Testing typescript and grpc client/server implementation
 
 Couldn't find a 100% working implementation of this... so tried to recreate from stuff I found 2+ years ago...
 
